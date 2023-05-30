@@ -20,4 +20,4 @@ ItemListMenu.ReadOnlyData - all item and some tutorial script is stored here. On
 # Anything to know about the code?
 Yeah, it contains some remnants of my Russian edition of this editor, that you can download with this link: https://drive.google.com/file/d/1oWDs0EjPMeM8Gaq0wFvabbdIRZIMIpjS/view?usp=sharing<br>
 Also, the program uses the characters that are available on this version of the game: https://drive.google.com/file/d/1x5t_K1rvFqAvnmQz0sO9xi-d6JVEbjJp/view?usp=drive_link<br>
-Oh, and also the program contains a bug of crashing when there's any tag after <endl> in the same line, so please be careful with <endl>'s.
+Oh, and also the program contains a bug of crashing when there's any tag after end line tag in the same line, so please be careful with endline tags.
