@@ -1,0 +1,10 @@
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\bin\Debug\AAIScriptEditor.exe.config
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\bin\Debug\AAIScriptEditor.exe
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\bin\Debug\AAIScriptEditor.pdb
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\obj\Debug\AAIScriptEditor.Properties.Resources.resources
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\obj\Debug\AAIScriptEditor.csproj.GenerateResource.cache
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\obj\Debug\AAIScriptEditor.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\obj\Debug\AAIScriptEditor.exe
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\obj\Debug\AAIScriptEditor.pdb
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\obj\Debug\AAIScriptEditor.Form1.resources
+C:\Users\userpc\source\repos\AAIScriptEditor\AAIScriptEditor\obj\Debug\AAIScriptEditor.csproj.AssemblyReference.cache
