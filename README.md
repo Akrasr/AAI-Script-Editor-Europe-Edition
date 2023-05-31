@@ -5,7 +5,7 @@ The GUI tool for editing Ace Attorney Investigations Miles Edgeworth script for 
 It's a GUI tool, so you need to press File-Open to open the extracted script file from AAI - Android. This tool has a previewer that shows how the script will look in the game.
 
 # How do I extract scripts?
-All AAI1's script is stored inside the game's code. You need to open game's Assembly-CSharp.dll file inside apk in assets/bin/Data/Managed folder. Then, you need to open the class that contains the script, press "Edit class/method" button and copy all the text from opened window to some text file on your PC. Then you can open this text file with AAI Script Editor and it will translate all the bytes in arrays to a full working script.
+All AAI1's script is stored inside the game's code. You need to open game's Assembly-CSharp.dll file inside apk (or obb for the current build) with dnSpy in assets/bin/Data/Managed folder. Then, you need to open the class that contains the script, press "Edit class/method" button and copy all the text from opened window to some text file on your PC. Then you can open this text file with AAI Script Editor and it will translate all the bytes in arrays to a full working script.
 
 # In which classes the script is stored?
 GKJ1_MSG0 - the first case's script.<br>
