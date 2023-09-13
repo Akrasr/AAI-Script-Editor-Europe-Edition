@@ -9,10 +9,10 @@ All AAI1's script is stored inside the game's code. You need to open game's Asse
 
 # In which classes the script is stored?
 GKJ1_MSG0 - the first case's script.<br>
-GKJ1_MSG1 - the first case's script.<br>
-GKJ1_MSG2 - the first case's script.<br>
-GKJ1_MSG3 - the first case's script.<br>
-GKJ1_MSG4 - the first case's script.<br>
+GKJ1_MSG1 - the second case's script.<br>
+GKJ1_MSG2 - the third case's script.<br>
+GKJ1_MSG3 - the fourth case's script.<br>
+GKJ1_MSG4 - the fifth case's script.<br>
 GKJ1 - all Game Over and Partner scripts. I highly recommend you to edit not the GKJ1 class itself, but its static constructor because all the script is initialized in it.<br>
 LogicMode - all Logic reasoning script during all the cases.<br>
 ItemListMenu.ReadOnlyData - all item and some tutorial script is stored here. Once again, I reccomend you to edit only a static constructor.
